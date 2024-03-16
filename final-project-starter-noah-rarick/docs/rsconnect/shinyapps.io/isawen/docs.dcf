@@ -1,0 +1,11 @@
+name: docs
+title:
+username:
+account: isawen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5829513
+bundleId:
+url: https://isawen.shinyapps.io/docs/
+when: 1646966763.89528
+lastSyncTime: 1646966763.89528

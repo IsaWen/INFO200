@@ -1,0 +1,13 @@
+name: final-project-app
+title: final-project-app
+username:
+account: noah-rarick
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5811097
+bundleId: 5659623
+url: https://noah-rarick.shinyapps.io/final-project-app/
+when: 1646803468.80428
+lastSyncTime: 1646803468.80428
+asMultiple: FALSE
+asStatic: FALSE
